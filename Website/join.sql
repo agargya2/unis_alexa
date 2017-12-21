@@ -1,0 +1,1 @@
+SELECT teacherclasses.userid, teacherclasses.id, teacherclasses.class, classassignments.classid, classassignments.assignment, classassignments.description FROM teacherclasses JOIN classassignments ON teacherclasses.id = classassignments.classid;
