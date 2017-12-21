@@ -1,0 +1,211 @@
+{
+	"games" : [
+		{
+			"day" : "monday",
+			"date" : "2017-11-20",
+			"opponent" : "TBA",
+			"location" : "Cerro Gordo",
+			"timeStart" : "TBA",
+			"teams" : "varsity",
+			"tournament": "yes"
+		},
+		{
+			"day" : "tuesday",
+			"date" : "2017-11-21",
+			"opponent" : "TBA",
+			"location" : "Cerro Gordo",
+			"timeStart" : "TBA",
+			"teams" : "varsity",
+			"tournament": "yes"
+		},
+		{
+			"day" : "wednesday",
+			"date" : "2017-11-22",
+			"opponent" : "TBA",
+			"location" : "Cerro Gordo",
+			"timeStart" : "TBA",
+			"teams" : "varsity",
+			"tournament": "yes"
+		},
+		{
+			"day" : "friday",
+			"date" : "2017-11-24",
+			"opponent" : "TBA",
+			"location" : "Cerro Gordo",
+			"timeStart" : "TBA",
+			"teams" : "varsity",
+			"tournament": "yes"
+		},
+		{
+			"day" : "monday",
+			"date" : "2017-11-27",
+			"opponent" : "Arcola",
+			"location" : "Arcola",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "tuesday",
+			"date" : "2017-11-28",
+			"opponent" : "Heritage-Villa Grove",
+			"location" : "Heritage-Villa Grove",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "friday",
+			"date" : "2017-12-01",
+			"opponent" : "Hoopeston",
+			"location" : "home",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "tuesday",
+			"date" : "2017-12-05",
+			"opponent" : "Deland-Weldon",
+			"location" : "home",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "friday",
+			"date" : "2017-12-08",
+			"opponent" : "Tuscola",
+			"location" : "Tuscola high",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "tuesday",
+			"date" : "2017-12-12",
+			"opponent" : "Salt Fork",
+			"location" : "Caitlin",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "friday",
+			"date" : "2017-12-15",
+			"opponent" : "Decatur Lutheran",
+			"location" : "Decatur LSA",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "friday",
+			"date" : "2018-01-05",
+			"opponent" : "Cornerstone Christan",
+			"location" : "home",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "tuesday",
+			"date" : "2018-01-09",
+			"opponent" : "Deland-Weldon",
+			"location" : "Deland-Weldon High",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "friday",
+			"date" : "2018-01-12",
+			"opponent" : "Cavalry Christan",
+			"location" : "Cavalry Christan academy",
+			"timeStart" : "7:45",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "tuesday",
+			"date" : "2018-01-16",
+			"opponent" : "Arthur Christan",
+			"location" : "home",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "friday",
+			"date" : "2018-01-19",
+			"opponent" : "Judah Christan",
+			"location" : "Judah Christan high",
+			"timeStart" : "5:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "tuesday",
+			"date" : "2018-01-23",
+			"opponent" : "Blue Ridge High School",
+			"location" : "home",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "friday",
+			"date" : "2018-01-26",
+			"opponent" : "Decatur Christan",
+			"location" : "Decatur Christan",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "tuesday",
+			"date" : "2018-01-30",
+			"opponent" : "Leroy High School",
+			"location" : "home",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "friday",
+			"date" : "2018-02-02",
+			"opponent" : "Notre Dame de La Salette Boys Academy",
+			"location" : "home",
+			"timeStart" : "6:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "Saturday",
+			"date" : "2018-02-03",
+			"opponent" : "Cerro Gordo High School",
+			"location" : "home",
+			"timeStart" : "1:00",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "tuesday",
+			"date" : "2018-02-06",
+			"opponent" : "Fisher High School",
+			"location" : "Fisher High School",
+			"timeStart" : "5:30",
+			"teams" : "both",
+			"tournament": "no"
+		},
+		{
+			"day" : "thursday",
+			"date" : "2018-02-08",
+			"opponent" : "Heritage High School",
+			"location" : "Heritage High School",
+			"timeStart" : "6:00",
+			"teams" : "jv",
+			"tournament": "no"
+		}
+	]
+}

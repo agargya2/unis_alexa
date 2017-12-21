@@ -1,0 +1,80 @@
+{
+	"games" : [
+		{
+			"day" : "saturday",
+			"date" : "2017-09-16",
+			"opponent" : "Bismark Henning",
+			"location" : "Rossville",
+			"earlyDismissal" : "none",
+			"leave" : "8:20",
+			"teams" : "both"
+		},
+		{
+			"day" : "monday",
+			"date" : "2017-09-18",
+			"opponent" : "Cavalry Christian",
+			"location" : "Cavalry Christian",
+			"earlyDismissal" : "none",
+			"leave" : "self drive",
+			"teams" : "varsity"
+		},
+		{
+			"day" : "tuesday",
+			"date" : "2017-09-19",
+			"opponent" : "Champaign Centennial",
+			"location" : "Champaign Centennial",
+			"earlyDismissal" : "none",
+			"leave" : "self drive",
+			"teams" : "both"
+		},
+		{
+			"day" : "thursday",
+			"date" : "2017-09-21",
+			"opponent" : "Judah Christian",
+			"location" : "Judah Christian",
+			"earlyDismissal" : "none",
+			"leave" : "self drive",
+			"teams" : "varsity"
+		},
+		{
+			"day" : "saturday",
+			"date" : "2017-09-23",
+			"opponent" : "Cornerstone Christian",
+			"location" : "Home",
+			"earlyDismissal" : "none",
+			"leave" : "self drive",
+			"teams" : "varsity",
+			"first" : "varsity"
+		},
+		{
+			"day" : "monday",
+			"date" : "2017-09-25",
+			"opponent" : "Warrensburg-Latham",
+			"location" : "Home",
+			"earlyDismissal" : "none",
+			"leave" : "self drive",
+			"teams" : "both",
+			"first" : "varsity"
+		},
+		{
+			"day" : "thursday",
+			"date" : "2017-09-28",
+			"opponent" : "Decatur St Teresa",
+			"location" : "Decatur St Teresa",
+			"earlyDismissal" : "none",
+			"leave" : "self drive",
+			"teams" : "varsity",
+			"first" : "varsity"
+		},
+		{
+			"day" : "thursday",
+			"date" : "2017-10-05",
+			"opponent" : "Bloomington Central Catholic",
+			"location" : "Home",
+			"earlyDismissal" : "none",
+			"leave" : "self drive",
+			"teams" : "both",
+			"first" : "varsity"
+		}
+	]
+}
